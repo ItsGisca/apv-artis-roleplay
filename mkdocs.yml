@@ -1,0 +1,31 @@
+site_name: APV Artis Roleplay
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: nl
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Donkere modus
+      primary: dark-blue
+      accent: blue 
+    - scheme: slate 
+      toggle:
+        icon: material/toggle-switch
+        name: Lichte modus    
+      primary: dark-blue
+      accent: blue  
+
+      markdown_extensions:
+      - toc:
+      title: On this page
