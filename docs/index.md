@@ -10,7 +10,7 @@
 * Categorie 6: Een ban van 1 week
 * Categorie 7: Een ban van 2 weken
 * Categorie 8: Een ban van 1 maand
-* Categorie 9: Account wipe + startersgeld vermindering (ligt aan overtreding.)
+* Categorie 9: Account wipe
 * Categorie 10: Een permanente ban
 
 LET OP: Wanneer je meerdere malen het zelfde artikel overtreed zul je een hogere straf krijgen. 
@@ -22,6 +22,7 @@ Het is verboden om software te gebruiken om zo voordeel te hebben. Voorbeelden z
 *	Cheat clients
 *	Crosshairs
 *	Lua Injectors
+*	NUI devtool
 
 Bij overtreding een ban volgens de 10e categorie 
 
@@ -31,8 +32,9 @@ Het gebruik maken van bugs/exploits is ten strengste verboden Enkele voorbeelden
 
 *	Misbruik van bepaalde emotes.
 *	Handelingen uitvoeren terwijl je dood bent.
+*	Een bug gebruiken en niet melden om zo voordeel te hebben.
 
-Bij overtreding kiest het stafflid wat de staf is t/m de staf volgens de 6e categorie 
+Bij overtreding staf volgens de 2e categorie 
 
 ## **Artikel 3 – VDM / RDM**
 
@@ -57,14 +59,14 @@ Enkele voorbeelden zijn:
 *	Het vermoorden van burgers omdat ze geen commando’s uitvoeren, denk hierbij aan bijvoorbeeld blaffen.
 *	Het vermoorden van burgers op basis van verdenking zonder enige aanleiding.
 
-Bij overtreding: Straf volgens de 4e categorie. 
+Bij overtreding: Straf volgens de 3e categorie. 
 
 ## **Artikel 4 - Real Life Traiding**
 
 Het is in geen enkele situatie toegestaan om in-game items/geld te (ver)kopen of ruilen tegen echt geld of spullen buiten de stad.
 Real life trading aanbieden of vragen valt ook onder deze categorie.
 
-Bij overtreding: straf volgens de 9e categorie.
+Bij overtreding: straf volgens de 5e en 9e categorie.
 
 
 ## **Artikel 5 - Weggeven van spullen als je stopt**
@@ -79,38 +81,22 @@ Bij overtreding: straf volgens de 10e categorie.
 
 Onder NVOL wordt verstaan: Hij/zij die geen waarde hecht aan het leven van zijn karakter.
 
-**Categorie - 1 Geen Wapen / Vuurwapen bij de betreffende persoon die een NVOL verricht.**
+Enkele voorbeelden van NVOl zijn:
 
-Dit zijn Enkele Voorbeelden van Cat 1: 	
+*	Het wegrennen als er een steekwapen op arm afstand van je staat
+*	Het wegrennen/rijden als er een vuurwapen op je gericht staat
+*	Het wegrennen bij een overval wanneer de overvallers naast je staan
+*	Het wegrennen van politie als er een wapen op je gericht staat en jij zelf geen wapen hebt
+*	Het wegrennen als je bent aangehouden en taser pinnen in he rug hebt of schotwonden hebt
 
-* Denk aan gevaarlijke stunts, springen van daken, Weglopen van
-* een gericht wapen en je geen dreiging bent. (Dus dat je geen steekwapen/vuurwapen hebt)
-
-Bij overtreding: Straf volgens de 5e categorie.
-
-**Categorie - 2 Wapen / Vuurwapen bij de betreffende persoon die een NVOL verricht.**
-
-Dit zijn Enkele Voorbeelden van Cat 2:
-
-* Weglopen van een gericht wapen en je wel een dreiging bent . (Dus dat je wel wapen/vuurwapen hebt)
-* doorlopen nadat je geschoten bent in je been, en er gericht wapen op je staat. 
-
-Bij overtreding: Straf volgens de 6e categorie.
-
-**Categorie - 3 Terugschieten / Steken betreffende persoon die een NVOL verricht.**
-
-Dit zijn Enkele Voorbeelden van Cat 3:
-
-* Terugschieten / steken op een persoon of voertuig die een gericht wapen op je heeft, of je overmeesterd / gehandsupt bent.
-
-Bij overtreding: Straf volgens de 7e categorie. 
+Bij overtreding zal een stafflid naarmate de situatie bepalen wat je straf word t/m straf volgens de 5e categorie. 
 
 ## **Artikel 7 - FailRP**
 
 Onder FailRP wordt verstaan:
 
 * Het opzettelijk verpesten of slecht afmaken van een scenario.
-* Het niet meewerken in een roleplay scenario;
+* Het niet meewerken in een roleplay scenario.
 *	Het onjuist gebruiken van een /me-command.
 *	Het opzettelijk doorgeven van een onjuiste porto frequentie wanneer je onder druk staat.
 *	Het wegzetten van je voertuig tijdens een achtervolging om te voorkomen dat je voertuig in beslag wordt genomen.
@@ -132,27 +118,34 @@ Onder New Life Rule wordt verstaan: indien personage is overleden, dan is het ve
 
 Enkele voorbeelden van informatie die vergeten moet worden zijn bijvoorbeeld:
 
-*	Locaties van bepaalde situaties;
+*	Locaties van bepaalde situaties.
 
-*	Wie je van het leven heeft ontnomen;
+*	Wie je van het leven heeft ontnomen.
 
-*	Situatie en aanleiding waarom iets heeft plaatsgevonden;
+*	Situatie en aanleiding waarom iets heeft plaatsgevonden.
 
-Bij overtreding: Straf volgens de 1e categorie.
+*	Het contact met dit persoon moet vergeten worden, Dit betekend dus dat na het vermoorden van iemand je niet meer zomaar contact mag opnemen tenzij hier RP aan verbonden is. Denk aan opnieuw ontmoeten
+
+Bij overtreding: Straf volgens de 2e categorie.
 
 ## **Artikel 10 - Overvallen**
 
-Gegijzelde mensen mogen ten alle tijden geen vriend of bekende zijn.
+Gegijzelde mensen mogen ten alle tijden geen vriend of ganglid zijn.
 
 Om een overval te starten dienen er een bepaald aantal agenten aanwezig te zijn.
 
 * Om een winkeloverval te starten dienen er 3 agenten in dienst te zijn
 * Om een kleine bank overval te starten dienen er 4 agenten in dienst te zijn
-* Om een grote overval te starten (denk aan grote bank, Humane Labs en grote scenarios als Politie HB) dienen er 6+ agenten in dienst te zijn.
+* Om een Grote bank overval te starten dienen er 6 agenten indienst te zijn
+* Om een juwelier overval te starten dienen er 6 agenten indienst te zijn
+* Om een huisinbraak te starten dienen er 3 agenten aanwezig te zijn
+* Om een uitbraak te starten te starten dienen er 4 agenten indienst te zijn
 
 Bij overtreding: Straf volgens de 5e categorie.
 
-Als je boven de 100K winst hebt op een overval mag je geen geld voor hostages vragen
+Als je boven de 100K hebt gekregen bij een overval mag je maximaal 15K voor een burger vragen en voor een overheidsdienst 20K
+
+Bij minder dan 100K bij een overval mag je 30K vragen voor een burger en 40k voor een overheidsdienst
 
 Bij overtreding: Straf volgens de 1e categorie
 
@@ -160,36 +153,39 @@ pas op het moment dat Politie aanwezig is bij de overval mag je wegrijden
 
 Bij overtreding: Straf volgens de 1e categorie
 
-Bij overtreding: Straf volgens de 6e categorie.
 
 ## **Artikel 11 - Powergaming**
 
 Enkele voorbeelden van Powergaming zijn:
 
-* Het gebruiken van kleding zoals een t-shirt of veters in een gevangenis om hiermee vrij te komen;
-* Het controleren van voertuigen zonder dat hier aanleiding voor is;
-* Het afnemen van meerdere wapens doormiddel van /me zonder een vervolg te geven in roleplay;
-* Het verrichten van meerdere handelingen in één /me handeling;
-* Het vermoorden van personen die goed meewerken zodat ze niks meer weten;
-* Het carryen/dragen zodat je met meer dan 2 personen op een motor kan;
-* Je hebt net iemand zijn/haar leven afgenomen en besluit het lichaam mee te nemen en in de oceaan te dumpen;
-* Je houdt iemand onder schot en vertelt hem om zijn volledige bankrekening naar jou over te schrijven;
-* Het spelen op een zodanige resolutie dat er extreem voordeel uit gehaald kan worden;
-* Medewerkers van het korps dwingen om personen te fouilleren zodat illegale producten afgenomen worden (denk aan wapens en/of drugs);
+* Het afnemen van spullen via /me maar in de praktijk het niet afpakken.
+* Het verrichten van meerdere handelingen in één /me handeling.
+* Het vermoorden van personen die goed meewerken zodat ze niks meer weten.
+* Je voertuig in het water rijden om hem vervolgens uit de impound te halen om vervolging / geript worden te voorkomen
+* Liegen tegen spelers over de regels met opzet
+* Je houdt iemand onder schot en vertelt hem om zijn volledige bankrekening naar jou over te schrijven.
+* Het inslikken van auto sleutels
+* Het vluchten met een helicopter voor de politie zonder goede RP
+* Het switchen van voertuig terwijl de politie / onderwereld op je hielen zitten
+* Medewerkers van het korps dwingen om personen te fouilleren zodat illegale producten afgenomen worden (denk aan wapens en/of drugs).
 
 Bij overtreding: Straf volgens de 3e categorie.
-je
+
+
 ## **Artikel 12 - Metagaming**
 
 Onder Metagaming wordt verstaan: Het verkrijgen van informatie die je buiten de server verkrijgt en deze informatie vervolgens in-game gebruikt.
 
 Enkele voorbeelden van metagaming zijn:
 
-* Het gebruiken van informatie uit Discord kanalen buiten de daarvoor bestemde kanalen;
-* Je dient ten alle tijden gedempt te zijn in discord als je ingame bent;
+* Het gebruiken van informatie uit Discord kanalen buiten de daarvoor bestemde kanalen.
+* Je dient ten alle tijden gedempt te zijn in discord als je roleplay bent.
 * Informatie uit een eerdere staffzaak gebruiken in rp
+* Het doorgeven van een locatie via discord als je dood bent
 
 Als je in-game bent ga dan op mute en deel niet je scherm.
+
+Wil je wel call tijdens dat je in de stad bent? Ga dan in een prive / algemene call in de main discord zo kunnen staffleden verifieren dat er geen meta gebeurd in de call
 
 Bij overtreding: Straf volgens de 3e categorie.
 
@@ -207,11 +203,18 @@ Onder karakter breken (OOC) wordt verstaan: Termen gebruiken die je niet in je k
 
 Enkele voorbeelden van OOC termen zijn:
 
-* Report;
-* Ticket;
-* VDM;
-* RDM;
+* Report.
+* Ticket.
+* VDM.
+* RDM.
 * Desync.
+* Discord
+
+In plaats daarvan gebruik termen zoals:
+
+* Broodje VDM
+* Broodje Desync
+* Stadsapp/gemeenteapp (discord)
 
 Bij overtreding: Straf volgens de 1e categorie, indien persoon al een warn van dit artikel heeft Categorie 2.
 
@@ -221,13 +224,15 @@ Onder GTA Drivestyle wordt verstaan: Het onrealistisch rijden in een voertuig zo
 
 Enkele voorbeelden van GTA Drivestyle zijn:
 
-*	Het rammen/onnodig beuken van andere voertuigen zonder enige reden;
+*	Het rammen/onnodig beuken van andere voertuigen zonder enige reden dit valt ook onder VDM
 
-*	Met een on-road voertuig opzettelijk off-road rijden;
+*	Met een on-road voertuig opzettelijk off-road rijden.
 
-*	Met heel hoge snelheden op drukke plekken rijden, zonder na te denken over de mogelijke consequenties;
+*	Met heel hoge snelheden op drukke plekken rijden, zonder na te denken over de mogelijke consequenties.
 
 *	Met je voertuig gebouwen inrijden.
+
+* 	Met snelheden boven de 180 op iemand in rijden / pitten
 
 Bij overtreding: Straf volgens de 4e categorie.
 
@@ -237,61 +242,51 @@ Met betrekking tot de volgende onderdelen is oplichten verboden en resulteert in
 
 *	Het stelen/overvallen van bankgeld
 
-*	Baan gerelateerde voorwerpen
+*	Baan gerelateerde voorwerpen zoals facturen
 
 *	Overheids voorwerpen
 
 *	Onder dwang iemand zijn huis betreden om leeg te roven.
 
-*	Oplichten met autohandel is verboden.
+*	Oplichten met autohandel is verboden. dit om het leuk te maken voertuigen van andere te kopen
 
-Oplichten toegestaan Er mag alleen opgelicht worden met spullen die gebruikt worden door criminelen, denk hierbij aan drugs, en wapens
+
+Oplichten toegestaan Er mag alleen opgelicht worden met spullen die gebruikt worden door criminelen, denk hierbij aan drugs, en wapens of comms
+
+Er zit GEEN limiet op de waarde van het rippen / oplichten
 
 Bij overtreding: Straf volgens de 9e categorie.
 
 ## **Artikel 17 - Rippen**
 
-Een van de manieren voor criminelen om geld te verdienen is het overvallen van burgers. Voor het overvallen gelden een aantal regels, namelijk:
+Omtrent rippen zijn er een aantal regels. zoals dat het niet toegestaan is om mensen zonder reden te rippen
 
-Alleen als een burger de volgende kledingstukken draagt, mag de betreffende persoon overvallen worden:
+Redenen om mensen te rippen zijn:
 
-*	Gezichtsbedekkende kleding.
+*	Gezien bij een criminele activiteit
 
-*	Het dragen van een holster.
+*	Als iemand een wapen hebt zien trekken (Denk aan slag/steek/vuurwapens)
 
-*	Een kogelwerend vest.
+*	Als iemand een zwaar wapen op zijn rug heeft
 
-* Ook mag je een burger overvallen als je hem met een slag-, steek-, of vuurwapen hebt gezien. Enkele voorbeelden hiervan zijn:
+*	Als je iemand bezig ziet met drugs plukken/verwerken
 
-*	Van een ambtenaar in dienst mag niks afgepakt worden, tenzij hij/zij een vuur- of slagwapen van een criminele organisatie bij zich heeft.
+*	Als je iemand ziet verkopen/witwassen (kloppen aan deuren)
 
-*	Nieuwe burgers die net in de stad zijn en voor de eerste keer de stad in komen mogen niet overvallen worden.
+*	Als iemand langer dan 3 minuten achter je aan zit
 
-Tijdens uitvoeren van criminele activiteiten mag je geript worden. Enkele voorbeelden hiervan zijn:
+*	Als iemand een eigendom van jouw heeft gestolen
 
-*	Tijdens het verwerken en plukken mag jij geript worden van de producten die jij bij je draagt.
 
-*	Het dragen van een masker.
+Ook mag je mensen rippen als zij bepaalde kledingstukken aan hebben. denk aan:
 
-*	Het dragen van een holster.
+*	Een masker
 
-*	Het dragen van een kogelwerend vest.
+*	Een holster
 
-De volgende dingen/items mogen niet afgenomen worden:
+*	Een kogelwerend vest
 
-*	Geld op de bank
-
-*	Overheids voorwerpen (denk aan zaklampen, wapenstok etc)
-
-*	Voorwerpen wat in iemand zijn huis/appartement ligt. (Buiten een officiele huiszoeking)
-
-Het rippen van agenten is niet toegestaan ook mag jij geen WAPENS/KOGELS van DSI afpakken.
-
-Eiland
-
-*	Op eiland mag je altijd rippen je hebt geen reden nodig
-
-Bij overtreding: Straf volgens de 3e categorie.
+Bij overtreding: Straf volgens de 3e categorie + mogelijk verlies van wapen
 
 ## **Artikel 18 - Ongepast taalgebruik**
 
@@ -299,9 +294,9 @@ Hij/zij die ongepast taalgebruik gebruikt, zal worden gestraft met een straf uit
 
 Enkele voorbeelden van ongepast taalgebruik zijn:
 
-*	Het schelden met ziektes;
+*	Het schelden met ziektes.
 
-*	Racistische en/of seksistische opmerkingen;
+*	Racistische en/of seksistische opmerkingen.
 
 *	Iemand persoonlijk beledigen en/of zijn of haar familie erbij betrekken is niet toegestaan.
 
@@ -329,21 +324,29 @@ Bij overtreding: Straf volgens de 1e categorie, indien persoon al een warn van d
 
 ## **Artikel 21 - Stemvervormers**
 
-Het gebruiken van stemvervormers is toegestaan mits hier voldoende aanleiding voor is. Zorg hierbij dat je enkel stemvervormers gebruikt als er genoeg redenen zijn en zorg dat het menselijk blijft klinken.
+Het gebruiken van stemvervormers is toegestaan mits hier voldoende aanleiding voor is. Zorg hierbij dat je nog wel verstaanbaar bent
+
+Redene om een stemvervormer te gebruiken zijn:
+
+*	Je gaat iemand rippen
+*	Je rijd als dsi of recherche
+*	Je doet een overval / gijzeling
 
 Bij overtreding: Straf volgens de 1e categorie. Indien persoon al een warn heeft categorie 2
 
 ## **Artikel 22 - Achtervolgingen**
 
 Tijdens een achtervolging is het ten alle tijden niet toegestaan om de volgende handelingen uit te voeren:
+Al deze punten worden ook gezien als powergaming
 
-*	Snel je kleding te veranderen;	
+*	Snel je kleding te veranderen.
 
-*	Meteen Off-Road gaan dit mag pas na 5 minuten;
+*	Meteen Off-Road gaan dit mag pas na 5 minuten.
 
-*	Je huidige auto in de garage zetten en een nieuwe auto pakken;
+*	Je huidige auto in de garage zetten en een nieuwe auto pakken.
 
 *	Je appartement in vluchten.
+
 
 Je mag een van de bovenstaande handelingen uitvoeren pas zodra je de achtervolgers hebt afgeschud.
 
@@ -353,11 +356,13 @@ Bij overtreding: Straf volgens de 4e categorie.
 
 Het dragen van de standaard outfit is niet toegestaan met als reden om te voorkomen dat iedereen hetzelfde eruit ziet. De standaard outfit is de outfit die je draagt als je de eerste keer de stad binnenkomt.
 
+Lukt het niet met je outfit maken of word je uit het skin menu gezet maak dan een report aan.
+
 Bij overtreding: Straf volgens de 3e categorie.
 
 ## **Artikel 24 - Impersonatie van overheidsmedewerkers**
 
-Het is verboden om jezelf te kleden als iemand van een overheidsbaan en dit beroep na te doen. Hetzelfde geldt voor staff-kleding.
+Het is verboden om jezelf te kleden als iemand van een overheidsbaan en dit beroep na te doen. Hetzelfde geldt voor staff-kleding of officiële gangs.
 
 Bij overtreding: Straf volgens de 3e categorie.
 
@@ -367,7 +372,7 @@ Je moet ten alle tijden respect hebben voor de staffleden. Ook als je het ergens
 
 Bij overtreding: Straf volgens de 1e categorie.
 
-Artikel 25A – Staff
+Artikel 25A – Gedrag tegenover staffleden
 
 *	Het liegen tegen staff is ten alle tijden niet toegestaan.
 
@@ -387,9 +392,11 @@ Bij overtreding: Straf volgens de 3e categorie.
 
 Het is verboden om bewust roleplay van andere spelers te verstoren. Hierbij kun je bijvoorbeeld denken aan:
 
-*	Cirkels blokkeren met voertuigen;
+*	Cirkels blokkeren met voertuigen.
 
-*	Role Play scenarios verstoren;
+*	Roleplay scenarios verstoren.
+
+*	Zonder reden schieten bij een scenario waar je niet bij hoord
 
 Bij overtreding: Straf volgens de 1e categorie.
 
@@ -401,9 +408,9 @@ Enkele voorbeelden hiervan zijn:
 
 *	Herkennen van stem Het is toegestaan om een persoon te herkennen aan zijn/haar stem op korte termijn.
 
-*	Anders praten dan normaal Als je hoort dat de persoon zijn/haar best doet om anders te praten dan normaal, dan mag de stem niet herkend worden.
+* 	Je kent iemand heel goed in RP
 
-*	Gebruik van externe software Het is toegestaan om gebruik te maken van externe software om je stem te vervormen voor criminele activiteiten.
+*	Gebruik van externe software Het is toegestaan om gebruik te maken van externe software om je stem te vervormen voor criminele activiteiten / DSI en recherche diensten.
 
 Bij overtreding: Straf volgens de 1e categorie.
 
@@ -413,24 +420,21 @@ Voor het verkrijgen van hostages worden de volgende regels gehanteerd:
 
 *	Het gebruik maken van een “outside” hostage is toegestaan.
 
-*	Het gebruik maken van een kennis, vriend of familie als gijzelaar is niet toegestaan.
+*	Het gebruik maken van een ganglid, goede vriend als gijzelaar is niet toegestaan.
 
 *	Er moeten minimaal 3 agenten aanwezig zijn om iemand te gijzelen.
 
 *	Vanaf 5 aanwezige agenten mogen er ook agenten gegijzeld worden, mits er goede roleplay achter zit.
 
-*	Een onderhandelaar mag niet worden beschoten of worden gegijzeld tijdens een onderhandeling.
+*	Een onderhandelaar mag niet worden gegijzeld tijdens een onderhandeling.
 
-Bij overtreding: Straf volgens de 3e categorie.
+Bij overtreding: Straf volgens de 3e categorie + mogelijk verlies van wapen
 
 ## **Artikel 30 - Criminele activiteiten tegen overheidsmedewerkers**
 
 Overheidsmedewerkers werken om de stad in veilig te houden en zijn er om alle burgers te helpen.
 
 Regels omtrent gedrag tegen overheidsmedewerkers. Daarom zijn er regels omtrent het gedrag tegen de overheidsmedewerkers:
-
-*	Een valse melding maken bij een overheidsinstantie is verboden.
-
 
 *	Je mag als je geen ambtenaar bent, geen overheidsvoertuigen stelen en besturen zonder goede RP daarachter
 
@@ -440,17 +444,17 @@ Stelen van overheidsvoertuigen: Het is niet toegestaan om overheidsvoertuigen te
 
 Bij overtreding: Straf volgens de 4e categorie.
 
-## **Artikel 31 - Het gebruik van een vuurwapen Artikel**
+## **Artikel 31 - Het gebruik van een vuurwapen**
 
-Het onnodig of onterecht gebruiken van vuurwapens: Het onnodig of onterecht gebruiken van een vuurwapen is verboden. Wanneer een crimineel het gevoel heeft dat hij/zij een vuurwapen moet gebruiken zal hier een geldige reden aan vast moeten zitten.
+Het onnodig of onterecht gebruiken van een vuurwapen is verboden. Wanneer een crimineel het gevoel heeft dat hij/zij een vuurwapen moet gebruiken zal hier een geldige reden aan vast moeten zitten.
 
-Ambtenaar uit dienst: Een ambtenaar uit dienst mag zijn/haar dienstwapen niet bij zich houden buiten zijn dienst.
+Ambtenaar uit dienst: Een ambtenaar uit dienst mag zijn/haar dienstwapen niet bij zich houden / in zijn persoonlijke voertuig hebben buiten zijn dienst.
 
-Ook na Gebruik van wapen/vuurwapen mag je hem pas na 10 min wegleggen
+Ook na Gebruik van wapen/vuurwapen mag je hem pas na 10 min wegleggen valt onder combatstashen
 
 Bij overtreding: Straf volgens de 5e categorie.
 
-## **Artikel 32 - Campen van locatie’s **
+## **Artikel 32 - Campen op locaties**
 
 Het is toegestaan om te campen op locatie’s. Ook politie mag dit doen indien ze met 4+ mensen zijn.
 
@@ -473,23 +477,22 @@ Bij 2 keer zal gestraft worden volgens de 2e categorie
 
 ## **Artikel 34 - Uitbreken!**
 
-Het is niet toegestaan uit te breken
+Het is toegestaan uit te breken onder bepaalde voorwaarden:
 
-ookal zijn er geen sloten het mag niet
+*	Je accepteerd dat bij check van de gevangenis je kans hebt dat je opniewu een arrestatie bevel krijgt
+*	er zijn 4 agenten in de stad
+*	Je geeft geen locatie door via discord
+*	Je gebruikt het script en gaat niet naar buiten buggen
 
-Ook mag je niet uitgebroken worden door iemand anders
+Het is niet mogelijk uit te breken zonder het script dan word je automatisch geteleporteerd naar de cell
 
-Je mag wel proberen tijdens een OV iemand vrij te krijgen
-
-POLITIE IS NIET VERPLICHT JE VRIJ TE LATEN!
-
-Dit geld alleen voor de gevangenis niet de politie cell!
-
-Bij overtreding: Straf volgens de 2e categorie + je celstraf opnieuw
+Bij overtreding: Straf volgens de 2e categorie + je celstraf x2
 
 ## **Artikel 35 - Donatie Voertuigen**
 
-Het is niet toegestaan donatie voertuigen of spullen door te verkopen
+Het is niet toegestaan donatie voertuigen of spullen door te verkopen tenzij toestemming van bestuur
+
+Het is niet toegestaan meer dan 2 import voertuig in bezit te hebben
 
 Bij overtreding: Staf Volgens de 1e categorie + Je bent je donatie spullen kwijt
 
@@ -508,4 +511,54 @@ Het is bij de volgende voertuigen niet Toegestaan deze te stelen
 
 * Anwb voertuigen
 
+Denk goed na wanneer je iets steelt vanwege dat de overheids diensten geen sloten op hun voertuig hebben
+
 Bij overtreding: Straf volgens de 2e categorie.
+
+## **Artikel 37 - Corruptie**
+
+Corruptie is in Artis niet toegestaan
+
+Onder corruptie valt:
+
+* overvallen
+* Plukken
+* Verpakken
+* Verkopen
+* Witwassen
+* Overvallen plegen / helpen
+* Rippen
+* Kogels van de politie kluis meenemen
+* Dienstspullen achterhouden
+* Het achterhouden van bewijs
+* Rollen hebben in een offi/onoffi gang
+* Het behouden van inbeslaggenomen matrialen denk aan wapens, geld, drugs
+
+Wel mogen er kleine informatie delen doorgegeven worden denk aan:
+
+* 	Het doorgeven welke locaties er bekend zijn
+*	Het doorgeven van arrestatie bevelen het er af halen is niet toegestaan
+
+Bij overtreding een straf volgens de 6e categorie + Mogelijke wipe of alleen inname van de verdiende spullen
+
+## **Artikel 38 - Vliegen in vliegtuigen/helicopters**
+
+Het is niet toegestaan om te vliegen zonder geldig vliegbrevet deze is te halen bij **Fly-High**
+
+Ook mag je niet eventjes bij een vriend of vriendin vliegen dat mag echt alleen met het juiste brevet
+
+Ook de politie piloten dienen een brevet te halen voor het juist voertuig
+
+Bij overtreding een straf tot de 6e categorie + Inname van vliegtuig/helicopter
+
+## **Artikel 39 - Combatstashen**
+
+Het is niet toegestaan te combatstashen
+
+Voorbeelden van combatstashen zijn:
+
+* Het opbergen van wapens tijdens een achtervolging hiervoor dien je de personen 10 minuten kwijt te zijn ook is het niet toegestaan het wapen in het dashboard te stashen
+
+* Het opbergen van drugs tijdens een achtervolging om rippen / inbeslagname te voorkomen je dient de persoon / personen 10 minuten kwijt te zijn om de drugs te mogen stashen wel mag drugs in het voertuig waar je op dat moment in rijd gestasht worden
+
+Bij overtreding een straf volgens de 3e categorie + Mogelijk verlies van gestashte matrialen
