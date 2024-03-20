@@ -563,9 +563,9 @@ Voorbeelden van combatstashen zijn:
 
 Bij overtreding een straf volgens de 3e categorie + Mogelijk verlies van gestashte matrialen
 
-## **Artikel 39 - Het Counteren/binnenvallen van overvallen**
+## **Artikel 40 - Het Counteren/binnenvallen van overvallen**
 
-**39.1 - Het counteren van een overval als onderwereld**
+**40.1 - Het counteren van een overval als onderwereld**
 
 Voor het counteren van een overval zijn er een aantal regels
 
@@ -574,7 +574,7 @@ Voor het counteren van een overval zijn er een aantal regels
 
 Bij overtreding een straf volgens de 2e categorie + mogelijk wapen verlies
 
-**39.2 - Het binnenvallen van een overval als politie**
+**40.2 - Het binnenvallen van een overval als politie**
 
 Voor het binnenvallen van overvallen zijn er een aantal regels
 
