@@ -562,3 +562,29 @@ Voorbeelden van combatstashen zijn:
 * Het opbergen van drugs tijdens een achtervolging om rippen / inbeslagname te voorkomen je dient de persoon / personen 10 minuten kwijt te zijn om de drugs te mogen stashen wel mag drugs in het voertuig waar je op dat moment in rijd gestasht worden
 
 Bij overtreding een straf volgens de 3e categorie + Mogelijk verlies van gestashte matrialen
+
+## **Artikel 39 - Het Counteren/binnenvallen van overvallen**
+
+**39.1 - Het counteren van een overval als onderwereld**
+
+Voor het counteren van een overval zijn er een aantal regels
+
+* Je gaat niet zomaar schieten maar geeft mensen de kans over te geven
+* Je mag alleen counteren als de politie nog niet ter plaatsen is
+
+Bij overtreding een straf volgens de 2e categorie + mogelijk wapen verlies
+
+**39.2 - Het binnenvallen van een overval als politie**
+
+Voor het binnenvallen van overvallen zijn er een aantal regels
+
+* Het is niet toegestaan de bank zonder reden binnen te vallen redenen zijn:
+  - Overvallers vertonen kloterig gedrag ook na het aanspreken
+  - Overvallers schieten op hostage / agenten buiten
+  - Overvallers stellen niet haalbare eisen en veranderen niet na een lange onderhandeling
+  - Overvallers houden zich niet aan de eisen
+
+* Een binnenval mag ALLEEN worden uitgevoert door DSI noodhulp mag wel mee het pand in maar er dient minimaal 1 DSI aanwezig te zijn en er moet toestemming zijn van je korpsleiding
+
+
+Bij overtreding een straf volgens de 2e categorie + mogelijke sanctie vanuit de korpsleiding
