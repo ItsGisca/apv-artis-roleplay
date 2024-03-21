@@ -440,6 +440,10 @@ Regels omtrent gedrag tegen overheidsmedewerkers. Daarom zijn er regels omtrent 
 
 *	Het dwingen van ambtenaren om illegale dingen te doen zoals spullen geven is ook niet toegestaan en dus strafbaar voor de gene die het doet en vraagt/dwingt.
 
+* 	Het rippen van een dienstwapens / spullen van politie / ambulance is niet toegestaan wel mogen bijvoorbeeld ingenomen onderwereld wapens worden afgepakt
+
+* 	Handboeien mogen niet afgepakt worden vind je deze maak een report om het weg te laten halen
+
 Stelen van overheidsvoertuigen: Het is niet toegestaan om overheidsvoertuigen te stelen voor persoonlijk gebruik.
 
 Bij overtreding: Straf volgens de 4e categorie.
