@@ -537,11 +537,26 @@ Onder corruptie valt:
 * Het achterhouden van bewijs
 * Rollen hebben in een offi/onoffi gang
 * Het behouden van inbeslaggenomen matrialen denk aan wapens, geld, drugs
+* Het opslaan van dienstspullen in je persoonlijke voertuig zonder toestemming van je leidinggevende
 
 Wel mogen er kleine informatie delen doorgegeven worden denk aan:
 
 * 	Het doorgeven welke locaties er bekend zijn
 *	Het doorgeven van arrestatie bevelen het er af halen is niet toegestaan
+
+Bij overtreding een straf volgens de 6e categorie + Mogelijke wipe of alleen inname van de verdiende spullen
+
+**37.2 Het pakken van extra spullen uit de politie kluis**
+
+Het is niet toegestaan spullen uit de politie kluis/shop te halen waar je geen toestemming voor hebt
+
+Voorbeelden zijn:
+
+*	Zonder toestemming meer dan 150 kogels pakken
+*	Zonder toestemming/bevoegdheid een vuurwapen pakken
+*	Matrialen pakken waar je niet bevoegd voor bent
+*	Matrialen kopen voor persoonlijk gebruik denk aan kogels
+*	Matrialen kopen voor andere personen zoals onderwereld etc
 
 Bij overtreding een straf volgens de 6e categorie + Mogelijke wipe of alleen inname van de verdiende spullen
 
